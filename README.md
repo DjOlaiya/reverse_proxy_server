@@ -1,0 +1,1 @@
+# Created a Proxy Server to avoid cors issue
